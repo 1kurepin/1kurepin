@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960" height="280" viewBox="0 0 960 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Agentify repository card</title>
+  <desc id="desc">Dark branded card for Agentify repository</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="960" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#070D1A"/>
+      <stop offset="1" stop-color="#0E1933"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(778 72) rotate(132.31) scale(255.447 387.16)">
+      <stop stop-color="#1C4EA5" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#1C4EA5" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7BD2FF"/>
+      <stop offset="1" stop-color="#3982FF"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#13274F"/>
+      <stop offset="1" stop-color="#0E1D3B"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="958" height="278" rx="24" fill="url(#bg)" stroke="#223154" stroke-width="2"/>
+  <rect x="1" y="1" width="958" height="278" rx="24" fill="url(#glow)"/>
+
+  <rect x="46" y="36" width="148" height="34" rx="17" fill="#13264A" stroke="#2B4777"/>
+  <text x="71" y="58" fill="#9ED4FF" font-size="14" font-family="Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing="1.6">AGENTIFY</text>
+
+  <g transform="translate(48 90)">
+    <rect width="66" height="66" rx="17" fill="#0B1730" stroke="#2A4C83" stroke-width="2"/>
+    <path d="M33 15L50 51H42.1L38.6 43.1H27.4L23.9 51H16L33 15ZM30.2 36.6H35.8L33 30.2L30.2 36.6Z" fill="url(#accent)"/>
+  </g>
+
+  <text x="132" y="128" fill="#E8F1FF" font-size="42" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Agentify</text>
+  <text x="132" y="160" fill="#A8B9D7" font-size="22" font-family="Segoe UI, Arial, sans-serif">Make any project AI-agent-ready</text>
+
+  <g transform="translate(132 186)">
+    <rect width="120" height="34" rx="17" fill="url(#chip)" stroke="#28518E"/>
+    <text x="31" y="22" fill="#BEDDFF" font-size="15" font-family="Segoe UI, Arial, sans-serif">Rules</text>
+  </g>
+  <g transform="translate(264 186)">
+    <rect width="120" height="34" rx="17" fill="url(#chip)" stroke="#28518E"/>
+    <text x="32" y="22" fill="#BEDDFF" font-size="15" font-family="Segoe UI, Arial, sans-serif">Skills</text>
+  </g>
+  <g transform="translate(396 186)">
+    <rect width="154" height="34" rx="17" fill="url(#chip)" stroke="#28518E"/>
+    <text x="27" y="22" fill="#BEDDFF" font-size="15" font-family="Segoe UI, Arial, sans-serif">Workflows</text>
+  </g>
+
+  <text x="132" y="246" fill="#7C92BB" font-size="17" font-family="Consolas, Menlo, monospace">github.com/1kurepin/agentify</text>
+
+  <rect x="610" y="34" width="304" height="212" rx="20" fill="#0A152C" stroke="#1E345B"/>
+  <text x="640" y="76" fill="#D9E8FF" font-size="20" font-family="Segoe UI, Arial, sans-serif" font-weight="600">What Agentify gives you</text>
+
+  <circle cx="642" cy="112" r="7" fill="#3D8CFF"/>
+  <path d="M639 112L641 114L646 109" stroke="#DDEEFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="660" y="117" fill="#AFC4E7" font-size="16" font-family="Segoe UI, Arial, sans-serif">Universal project rules</text>
+
+  <circle cx="642" cy="150" r="7" fill="#3D8CFF"/>
+  <path d="M639 150L641 152L646 147" stroke="#DDEEFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="660" y="155" fill="#AFC4E7" font-size="16" font-family="Segoe UI, Arial, sans-serif">Predictable agent behavior</text>
+
+  <circle cx="642" cy="188" r="7" fill="#3D8CFF"/>
+  <path d="M639 188L641 190L646 185" stroke="#DDEEFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="660" y="193" fill="#AFC4E7" font-size="16" font-family="Segoe UI, Arial, sans-serif">Extensible via workflows</text>
+</svg>

@@ -1,16 +1,12 @@
 # Leonid Kurepin
 
-[![Agentify card](https://gh-card.dev/repos/1kurepin/agentify.svg)](https://github.com/1kurepin/agentify)
+<a href="https://github.com/1kurepin/agentify">
+  <img src="./assets/agentify-card.svg" alt="Agentify card" width="760" />
+</a>
 
-## Agentify
+Agentify makes projects AI-agent-ready with reusable rules, skills, and workflows.
 
-Agentify makes any project AI-agent-ready:
-- universal rules without stack lock-in;
-- knowledge-base structure for predictable agent behavior;
-- extensibility via Skills and Workflows.
-
-## Links
+## Quick links
 
 - Repository: https://github.com/1kurepin/agentify
-- Getting started: https://github.com/1kurepin/agentify/blob/main/docs/getting-started.md
-- FAQ: https://github.com/1kurepin/agentify/blob/main/docs/faq.md
+- Docs: https://github.com/1kurepin/agentify/tree/main/docs
